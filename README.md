@@ -1,3 +1,5 @@
+![Header](./[github-header-banner.png])
+
 # 💫 About Me:
 🔭 I’m currently working on AI-powered applications and Android projects<br><br>🤝 I’m looking to collaborate on Generative AI and real-world problem-solving systems<br><br>🌱 I’m currently learning system design and AI.<br><br>💬 Ask me about AI, Android development, and automation workflows(N8N)<br><br>⚡ Fun fact: I love building practical tech that actually solves problems
 
